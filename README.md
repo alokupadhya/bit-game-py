@@ -7,6 +7,4 @@ A very simple game devloped in python by using pygame library. In this game you 
 - Pokemon character pickachu with 100 Health Point
 
 ### Screenshot
-<p align="center">
-  <img src="./1.jpg" width="100%" /> 
-</p>
+![Game Screen](1.jpg)
