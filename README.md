@@ -6,4 +6,7 @@ A very simple game devloped in python by using pygame library. In this game you 
 - Evil Pokemon attack power ups with level up
 - Pokemon character pickachu with 100 Health Point
 
-### Screen Shots
+### Screenshot
+<p align="center">
+  <img src="./1.jpg" width="100%" /> 
+</p>
